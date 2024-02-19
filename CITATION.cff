@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: Please cite the following works when using this software.
+title: "Federated Learning Project"
+version: VoR
+date-released: 2003-02-11
+authors:
+  - family-names: "Althunayyan"
+    given-names: "Muzun"
+doi:  
+identifiers:
+  - type: doi
+    value: 
+keywords:
+- federated learning
